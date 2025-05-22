@@ -1,5 +1,5 @@
 # Architecture Classification
 
 alias in tg @architecturestylesbot
-\n
+<p></p>
 accuracy 76%
